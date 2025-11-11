@@ -29,7 +29,7 @@
 
 | 微調腳本 |
 | ------- |
-| [Mx Linux Xfce Config](https://github.com/samwhelp/mxlinux-xfce-adjustment/tree/main/prototype/main/xfce-config) |
+| [Mx Linux Xfce Config](https://github.com/samwhelp/mxlinux-xfce-adjustment/tree/main/prototype/main/xfce-config/full/Main) |
 | [Tool Config](https://github.com/samwhelp/mxlinux-adjustment/tree/main/prototype/main/tool-config/part) |
 
 
