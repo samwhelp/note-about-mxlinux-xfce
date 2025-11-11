@@ -4,9 +4,9 @@
 
 | Link | GitHub |
 | ---- | ------ |
-| [Mx Linux Xfce Adjustment](https://samwhelp.github.io/mxlinux-xfce-adjustment/) | [GitHub](https://github.com/samwhelp/mxlinux-xfce-adjustment) |
-| [Mx Linux Xfce 探索筆記](https://samwhelp.github.io/note-about-mxlinux-xfce/) | [GitHub](https://github.com/samwhelp/note-about-mxlinux-xfce) |
-| [Mx Linux 探索筆記](https://samwhelp.github.io/note-about-mxlinux/) | [GitHub](https://github.com/samwhelp/note-about-mxlinux) |
+| [MxLinux Xfce Adjustment](https://samwhelp.github.io/mxlinux-xfce-adjustment/) | [GitHub](https://github.com/samwhelp/mxlinux-xfce-adjustment) |
+| [MxLinux Xfce 探索筆記](https://samwhelp.github.io/note-about-mxlinux-xfce/) | [GitHub](https://github.com/samwhelp/note-about-mxlinux-xfce) |
+| [MxLinux 探索筆記](https://samwhelp.github.io/note-about-mxlinux/) | [GitHub](https://github.com/samwhelp/note-about-mxlinux) |
 
 
 > [鍵盤按鍵綁定一覽表](https://samwhelp.github.io/note-about-mxlinux-xfce/read/cheatsheet/keybind.html)
@@ -29,7 +29,7 @@
 
 | 微調腳本 |
 | ------- |
-| [Mx Linux Xfce Config](https://github.com/samwhelp/mxlinux-xfce-adjustment/tree/main/prototype/main/xfce-config/full/Main) |
+| [MxLinux Xfce Config](https://github.com/samwhelp/mxlinux-xfce-adjustment/tree/main/prototype/main/xfce-config/full/Main) |
 | [Tool Config](https://github.com/samwhelp/mxlinux-adjustment/tree/main/prototype/main/tool-config/part) |
 
 
